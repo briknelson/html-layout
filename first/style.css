@@ -1,0 +1,33 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+//This should work okay
+
+.back {
+	height:900px;
+	width:800px;
+	background-color: black;
+}
+.top {
+	height: 100px;
+	width: 800px;
+	background-color: darkgray;
+	float: top;
+}
+
+.leftside {
+	height: 800px;
+	width: 150px;
+	background-color: lightgray;
+	float: left;
+}
+
+.middle {
+	height: 700px;
+	width: 500px;
+	background-color: white;
+	float: left;
+}
+

@@ -1,0 +1,39 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+
+.left {
+	height:800px;
+	width:33%;
+	background-color: seagreen;
+	float: left;
+}
+.middle {
+	height: 800px;
+	width: 34%;
+	background-color: green;
+	float: left;
+}
+
+.right {
+	height: 600px;
+	width: 33%;
+	background-color: yellowgreen;
+	float: left;
+}
+
+.picture {
+	height: 200px;
+	width: 33%;
+	background-color: red;
+	float:bottom;
+	float:right;
+	color:white;
+	text-align:center;
+	font-size:25px;
+	vertical-align:middle;
+	line-height:200px;
+}
+

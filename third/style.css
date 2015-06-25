@@ -1,0 +1,60 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+
+.back1 {
+	height:100px;
+	width:100%;
+	background-color: lightgray;
+	float: left;
+}
+
+.smallbox {
+	height:100px;
+	width:100px;
+	background-color: blue;
+	float:left;
+}
+
+.white2 {
+	height: 160px;
+	width: 100%;
+	background-color: white;
+	float:left;
+	color:black;
+	text-align:left;
+	font-size:25px;
+	line-height:30px;
+	vertical-align:middle;
+	padding: 20px;
+}
+
+.section3 {
+	height: 100px;
+	width: 100%;
+	background-color: lightblue;
+	float: left;
+}
+
+.section4 {
+	height: 100px;
+	width: 100%;
+	background-color: teal;
+	float: left;
+}
+
+.section5 {
+	height: 100px;
+	width: 100%;
+	background-color: lightgreen;
+	float: left;
+}
+
+.section6 {
+	height: 100px;
+	width: 100%;
+	background-color: yellow;
+	float: left;
+}

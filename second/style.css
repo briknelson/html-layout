@@ -1,26 +1,26 @@
 html, body {
-	height: 100%;
-	width: 100%;
+	height: 800px;
+	width: 650px;
 }
 
 
 .left {
 	height:800px;
 	width:33%;
-	background-color: seagreen;
+	background-color: #81ea9d;
 	float: left;
 }
 .middle {
 	height: 800px;
 	width: 34%;
-	background-color: green;
+	background-color: #b1fdc6;
 	float: left;
 }
 
 .right {
 	height: 600px;
 	width: 33%;
-	background-color: yellowgreen;
+	background-color: #c3fbd2;
 	float: left;
 }
 
